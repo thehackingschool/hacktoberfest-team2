@@ -1,0 +1,49 @@
+body{
+    background-image: url("backgroundimage3.jpg");
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    min-height: 100%;   
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    color: aqua;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    color: aqua;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    color: aqua;
+}
+div{
+    text-align: center;
+    font-family: Georgia;
+    font-size: 25px;
+    color:blanchedalmond;
+    padding: 15px,30px;
+}
+input[type=button]{
+    font-size: 20px;
+    font-family: Georgia;
+    box-sizing: border-box;
+    text-decoration:solid;
+    margin: 15px 20px;
+    cursor:pointer;
+    align-items:center;
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    margin-top: 20px;
+    max-width: 420px;
+    background-color:white;
+    color:black;
+}
